@@ -1,0 +1,36 @@
+Other Street
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 9
+steer right
+brake
+END
+Another Street
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 10
+accelerate 9
+steer right
+accelerate 15
+accelerate 15
+accelerate 15
+accelerate 15
+accelerate 15
+accelerate 15
+accelerate 9
+steer right
+brake
+END
