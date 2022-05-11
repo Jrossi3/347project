@@ -1,0 +1,4 @@
+Main Street SpeedLimit 10 X 0 Y [0,99]
+Other Street SpeedLimit 15 X [1,100] Y 100
+Another Street SpeedLimit 10 X 101 Y [0,99]
+Last Street SpeedLimit 15 X [1,100] Y -1
